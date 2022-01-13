@@ -1,0 +1,48 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  margin-top: 150px;
+  color: aliceblue;
+}
+
+div {
+  text-align: center;
+}
+button {
+  padding: 15px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+.btn-iniciar {
+  background-color: rgb(6, 114, 6);
+  color: white;
+  font-weight: bold;
+}
+
+.btn-pausar {
+  background-color: rgb(68, 71, 68);
+  color: white;
+  font-weight: bold;
+}
+
+.btn-parar {
+  background-color: rgb(168, 22, 3);
+  color: white;
+  font-weight: bold;
+}
